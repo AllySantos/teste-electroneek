@@ -1,0 +1,149 @@
+
+  ==========================================
+  Studio Pro version: 7.2.17
+  Started at: 01/04/2022 14:06:52
+  ==========================================
+  
+
+[2022-04-01T17:08:26.495Z] : [error]: Loading icon set URL: ../assets/fonts/mdi.svg failed: Http failure response for ../assets/fonts/mdi.svg: 0 Unknown Error
+
+[2022-04-01T17:08:26.498Z] : [error]: Error retrieving icon :update! Unable to find icon with the name "update"
+
+[2022-04-01T17:45:08.700Z] : [success]: Robot saved successfully
+
+[2022-04-01T17:45:13.650Z] : [success]: Bot started
+
+[2022-04-01T17:45:13.652Z] : [info]: Robot start
+
+[2022-04-01T17:45:20.978Z] : [info]: ["C:\\Users\\alicia.santos\\Pictures\\Modelos de Boleto\\Boleto - Itau.png","C:\\Users\\alicia.santos\\Pictures\\Modelos de Boleto\\Boleto BB - Modelo.png","C:\\Users\\alicia.santos\\Pictures\\Modelos de Boleto\\Boleto Bradesco - Modelo.png","C:\\Users\\alicia.santos\\Pictures\\Modelos de Boleto\\Boleto Caixa - Modelo.png","C:\\Users\\alicia.santos\\Pictures\\Modelos de Boleto\\Boleto Generico - Modelo.jpg","C:\\Users\\alicia.santos\\Pictures\\Modelos de Boleto\\Boleto Santander - Modelo 3.jpg","C:\\Users\\alicia.santos\\Pictures\\Modelos de Boleto\\Boleto Santander - Modelo.png","C:\\Users\\alicia.santos\\Pictures\\Modelos de Boleto\\Boleto Sicoob - Modelo.jpg","C:\\Users\\alicia.santos\\Pictures\\Modelos de Boleto\\Boleto X - Modelo.jpg"]
+
+[2022-04-01T17:45:21.284Z] : [success]: Bot finished successfully, total execution time: 7s 630ms
+
+[2022-04-01T17:45:21.286Z] : [info]: ---------------------------------------------
+
+[2022-04-01T17:55:57.001Z] : [success]: Robot saved successfully
+
+[2022-04-01T17:56:01.090Z] : [success]: Bot started
+
+[2022-04-01T17:56:01.090Z] : [info]: Robot start
+
+[2022-04-01T17:56:15.314Z] : [success]: Bot finished successfully, total execution time: 14s 222ms
+
+[2022-04-01T17:56:15.315Z] : [info]: ---------------------------------------------
+
+[2022-04-01T17:57:36.584Z] : [success]: Robot saved successfully
+
+[2022-04-01T17:57:40.353Z] : [success]: Bot started
+
+[2022-04-01T17:57:40.354Z] : [info]: Robot start
+
+[2022-04-01T17:57:46.911Z] : [info]: Fim
+
+[2022-04-01T17:57:47.347Z] : [success]: Bot finished successfully, total execution time: 6s 992ms
+
+[2022-04-01T17:57:47.348Z] : [info]: ---------------------------------------------
+
+[2022-04-01T17:58:22.227Z] : [success]: Robot saved successfully
+
+[2022-04-01T17:58:25.895Z] : [success]: Bot started
+
+[2022-04-01T17:58:25.896Z] : [info]: Robot start
+
+[2022-04-01T17:58:30.494Z] : [info]: undefined
+
+[2022-04-01T17:58:30.499Z] : [info]: Fim
+
+[2022-04-01T17:58:31.239Z] : [success]: Bot finished successfully, total execution time: 5s 342ms
+
+[2022-04-01T17:58:31.240Z] : [info]: ---------------------------------------------
+
+[2022-04-01T17:59:23.964Z] : [success]: Robot saved successfully
+
+[2022-04-01T17:59:27.474Z] : [success]: Bot started
+
+[2022-04-01T17:59:27.475Z] : [info]: Robot start
+
+[2022-04-01T17:59:31.447Z] : [info]: 4
+
+[2022-04-01T17:59:38.263Z] : [info]: {"message":"Success","result":[{"message":"Success","input":"document","prediction":[{"id":"c0043a8c-9e7a-46ab-af35-9e4b2fd41ca5","label":"numero_boleto","xmin":1430,"ymin":996,"xmax":2951,"ymax":1055,"score":0.9999326,"ocr_text":"34191.75363 79378.660199 80411.470000 4 62570000165447"},{"id":"3cc6298b-c259-461a-82a1-08319da1d355","label":"local_pagamento","xmin":802,"ymin":1136,"xmax":1151,"ymax":1183,"score":0.997783,"ocr_text":"ququer bance se"},{"id":"58a3fd9f-fd68-4685-8775-9bb734cd8dde","label":"local_pagamento","xmin":1167,"ymin":1137,"xmax":1201,"ymax":1180,"score":0.9996636,"ocr_text":"o"},{"id":"7505eb41-f588-4cdf-ac7f-702712b65598","label":"dt_vencimento","xmin":2436,"ymin":1136,"xmax":2639,"ymax":1175,"score":0.9934087,"ocr_text":"24/112014"}],"page":0,"request_file_id":"6dfa4247-ef3e-4dc2-ae25-4d068c9a81e1","filepath":"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1642838292-1.jpeg","id":"4d3fce3c-b1e5-11ec-a2a3-c27f1b4cc770","rotation":0}],"signed_urls":{"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1642838292-1.jpeg":{"original":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1642838292-1.jpeg?expires=1648850299&or=0&s=74567a8a38c2c8485af5d940a481725e","original_compressed":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1642838292-1.jpeg?auto=compress&expires=1648850299&or=0&s=fed9971e56b409ecb5b004c1830c679c","thumbnail":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1642838292-1.jpeg?auto=compress&expires=1648850299&w=240&s=56c406875247588eb043b193be5740b8","acw_rotate_90":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1642838292-1.jpeg?auto=compress&expires=1648850299&or=270&s=7e131a3b034cadf36384b8a4ccc3dcdb","acw_rotate_180":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1642838292-1.jpeg?auto=compress&expires=1648850299&or=180&s=f6f17037aa029ad860469e6b32291afa","acw_rotate_270":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1642838292-1.jpeg?auto=compress&expires=1648850299&or=90&s=0f2701387c6cfed72593e36db40078e6","original_with_long_expiry":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1642838292-1.jpeg?expires=1664387899&or=0&s=92ba467f7bbc1d941a6fd8c214a4cacc"}}}
+
+[2022-04-01T17:59:43.721Z] : [info]: {"message":"Success","result":[{"message":"Success","input":"document","prediction":[{"id":"f6dbdd2f-0948-47f6-9608-cdfd51abe256","label":"numero_boleto","xmin":1234,"ymin":378,"xmax":3373,"ymax":429,"score":0.9999927,"ocr_text":"00190.50095 40144.816069 06809.350314 3 37370000000100"},{"id":"1b25b590-dc7e-480d-85e1-9d178cffe8b3","label":"local_pagamento","xmin":116,"ymin":528,"xmax":2313,"ymax":579,"score":0.9999496,"ocr_text":"Pagável em qualquer banco até o vencimento. Após, atualize o boleto no site bb.com.br."}],"page":0,"request_file_id":"67ed1995-1995-49bd-9fd8-e9edb53ed4f7","filepath":"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1210982831-1.jpeg","id":"514c8554-b1e5-11ec-ae7a-ce4df23cb827","rotation":0}],"signed_urls":{"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1210982831-1.jpeg":{"original":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1210982831-1.jpeg?expires=1648850305&or=0&s=c3ff91f1669508306b2d03ad5c462821","original_compressed":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1210982831-1.jpeg?auto=compress&expires=1648850305&or=0&s=86414849dededb7e9121ce00472320c0","thumbnail":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1210982831-1.jpeg?auto=compress&expires=1648850305&w=240&s=7a1e33bf6696373b3e5864e59ad958cc","acw_rotate_90":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1210982831-1.jpeg?auto=compress&expires=1648850305&or=270&s=094281080b497ed4f6b3818aee485738","acw_rotate_180":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1210982831-1.jpeg?auto=compress&expires=1648850305&or=180&s=dce4abda2aeb284c2a71fbe3daedab69","acw_rotate_270":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1210982831-1.jpeg?auto=compress&expires=1648850305&or=90&s=cccb0e347485631bfdd91e8c4f8353f4","original_with_long_expiry":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1210982831-1.jpeg?expires=1664387905&or=0&s=a7243a229d1d7feb772af124023b7111"}}}
+
+[2022-04-01T17:59:48.696Z] : [info]: {"message":"Success","result":[{"message":"Success","input":"document","prediction":[{"id":"d8be6a0b-cfd5-4caf-9dc7-95575655d6ee","label":"numero_boleto","xmin":1406,"ymin":356,"xmax":3405,"ymax":427,"score":0.96286666,"ocr_text":"23791.11103 60000.000103 01000.222206 1 48622000000000"},{"id":"03c1fcd9-1024-412e-8e29-5aee85c9d855","label":"local_pagamento","xmin":142,"ymin":521,"xmax":1738,"ymax":561,"score":0.9992645,"ocr_text":"PAGÁVEL PREFERENCIALMENTE NAS AGÊNCIAS DO BRADESCO"},{"id":"49a7f494-6698-4fed-877d-2d54db90ac49","label":"dt_vencimento","xmin":3138,"ymin":528,"xmax":3395,"ymax":561,"score":0.9944395,"ocr_text":"29/01/2011"},{"id":"74b91772-f0ed-4914-93a1-cfd51d156221","label":"valor","xmin":3064,"ymin":914,"xmax":3405,"ymax":957,"score":0.99014413,"ocr_text":"20,000,000.00"}],"page":0,"request_file_id":"62269d77-88b0-4107-9b4f-f715e6bafbed","filepath":"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1046419593-1.jpeg","id":"548c0d16-b1e5-11ec-b933-42b59f5728bb","rotation":0}],"signed_urls":{"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1046419593-1.jpeg":{"original":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1046419593-1.jpeg?expires=1648850309&or=0&s=3b5d77ee5fdf16a203f404dd8daa6c50","original_compressed":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1046419593-1.jpeg?auto=compress&expires=1648850309&or=0&s=d140455abc1e57912fbdf672db379c34","thumbnail":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1046419593-1.jpeg?auto=compress&expires=1648850309&w=240&s=a75e558157a07cb9ccf1ee6b76fbf58f","acw_rotate_90":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1046419593-1.jpeg?auto=compress&expires=1648850309&or=270&s=ad70794999b26a1db21b617f3887f932","acw_rotate_180":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1046419593-1.jpeg?auto=compress&expires=1648850309&or=180&s=597aaa5dcda29ca6da78f02a6561c5f4","acw_rotate_270":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1046419593-1.jpeg?auto=compress&expires=1648850309&or=90&s=a1d136bd43f50468fa7a00887ed04848","original_with_long_expiry":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1046419593-1.jpeg?expires=1664387909&or=0&s=6ca6052fc19098b72c01235a44650a23"}}}
+
+[2022-04-01T17:59:54.219Z] : [info]: {"message":"Success","result":[{"message":"Success","input":"document","prediction":[{"id":"2071df04-dfaa-41b6-974f-e524940d5079","label":"numero_boleto","xmin":1631,"ymin":677,"xmax":1981,"ymax":716,"score":0.8597331,"ocr_text":"00000.123414 7"},{"id":"2d3d86dd-59e2-416f-97a4-ecbe0851109a","label":"numero_boleto","xmin":1000,"ymin":1552,"xmax":2381,"ymax":1591,"score":0.9989676,"ocr_text":"10491.23456 60000.200042 00000.1234147 62000000100050"},{"id":"9e618a8d-febb-4310-87ec-a87dc5495e48","label":"local_pagamento","xmin":329,"ymin":1661,"xmax":902,"ymax":1699,"score":0.9018692,"ocr_text":"qualquer Banco até o vencimento"},{"id":"8cb47183-0d1f-44fb-b4c9-8a0513697a8e","label":"dt_vencimento","xmin":2198,"ymin":1664,"xmax":2380,"ymax":1692,"score":0.9997373,"ocr_text":"28/09/2014"},{"id":"c732ad88-95a9-4602-bbd3-bc55c66cedad","label":"beneficiario","xmin":123,"ymin":1754,"xmax":291,"ymax":1778,"score":0.8337921,"ocr_text":"DevMedia"},{"id":"c893f538-56ae-471d-ab1d-01c30e33b435","label":"valor","xmin":2252,"ymin":1932,"xmax":2380,"ymax":1963,"score":0.99839514,"ocr_text":"1000,50"}],"page":0,"request_file_id":"638388e5-25a0-495b-8325-6347c137a8df","filepath":"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/2107044995-1.jpeg","id":"57870276-b1e5-11ec-a2c8-c27f1b4cc770","rotation":0}],"signed_urls":{"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/2107044995-1.jpeg":{"original":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/2107044995-1.jpeg?expires=1648850315&or=0&s=a523344f3e80c4847de064cf4c711186","original_compressed":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/2107044995-1.jpeg?auto=compress&expires=1648850315&or=0&s=285710c08d1218ec0372ade3ac00778e","thumbnail":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/2107044995-1.jpeg?auto=compress&expires=1648850315&w=240&s=4de8a44f04e276f25cbd9b82d5c42749","acw_rotate_90":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/2107044995-1.jpeg?auto=compress&expires=1648850315&or=270&s=c820be6831309c7b9d90c86b5606c5bc","acw_rotate_180":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/2107044995-1.jpeg?auto=compress&expires=1648850315&or=180&s=3ae3e57af1dc339dc0827e446ba73007","acw_rotate_270":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/2107044995-1.jpeg?auto=compress&expires=1648850315&or=90&s=15e4ec46b1bd7cb54d9ad12f645ce3c1","original_with_long_expiry":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/2107044995-1.jpeg?expires=1664387915&or=0&s=2564e30514bdbe8b05369657d417c719"}}}
+
+[2022-04-01T17:59:54.228Z] : [info]: Fim
+
+[2022-04-01T17:59:54.257Z] : [success]: Bot finished successfully, total execution time: 26s 780ms
+
+[2022-04-01T17:59:54.258Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:34:36.717Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:34:40.206Z] : [success]: Bot started
+
+[2022-04-01T18:34:40.207Z] : [info]: Robot start
+
+[2022-04-01T18:35:41.400Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:35:54.015Z] : [success]: Bot started
+
+[2022-04-01T18:35:54.015Z] : [info]: Robot start
+
+[2022-04-01T18:36:04.271Z] : [info]: undefined
+
+[2022-04-01T18:36:04.858Z] : [info]: Fim
+
+[2022-04-01T18:36:05.248Z] : [success]: Bot finished successfully, total execution time: 11s 231ms
+
+[2022-04-01T18:36:05.250Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:36:32.991Z] : [success]: Bot started
+
+[2022-04-01T18:36:32.992Z] : [info]: Robot start
+
+[2022-04-01T18:36:46.316Z] : [info]: {"message":"Success","input":"document","prediction":[{"id":"f790b5b2-defa-48b7-9d26-d34c582f2851","label":"dt_vencimento","xmin":3023,"ymin":465,"xmax":3235,"ymax":499,"score":0.99894756,"ocr_text":"11/08/2015"},{"id":"3c48674d-4a3a-4801-b2f3-10b131bb6d7a","label":"valor","xmin":3083,"ymin":923,"xmax":3231,"ymax":962,"score":0.99812907,"ocr_text":"1683,91"},{"id":"87712b4a-965a-4b05-830b-9a0d760c6a7f","label":"numero_boleto","xmin":1438,"ymin":283,"xmax":3219,"ymax":330,"score":0.9999879,"ocr_text":"74891.11521 00012.707303 18790.611034 1 66060000168391"},{"id":"4acd0d27-2e36-4ae0-926b-f54dac6e31c2","label":"local_pagamento","xmin":209,"ymin":455,"xmax":1829,"ymax":494,"score":0.99996763,"ocr_text":"PAGÁVEL PREFERENCIALMENTE NAS COOPERATIVAS DE CRÉDITO DO SICREDI"}],"page":0,"request_file_id":"241f33eb-8f9b-4644-b7c4-b3278c1312dd","filepath":"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/410347905-1.jpeg","id":"7c4ecad4-b1ea-11ec-8e05-2efebcd1f8ef","rotation":0}
+
+[2022-04-01T18:36:46.945Z] : [info]: Fim
+
+[2022-04-01T18:36:47.262Z] : [success]: Bot finished successfully, total execution time: 14s 268ms
+
+[2022-04-01T18:36:47.264Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:37:44.624Z] : [success]: Bot started
+
+[2022-04-01T18:37:44.624Z] : [info]: Robot start
+
+[2022-04-01T18:37:57.569Z] : [info]: local_pagamento
+
+[2022-04-01T18:37:58.191Z] : [info]: Fim
+
+[2022-04-01T18:37:59.246Z] : [success]: Bot finished successfully, total execution time: 14s 621ms
+
+[2022-04-01T18:37:59.248Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:46:30.444Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:46:37.901Z] : [success]: Bot started
+
+[2022-04-01T18:46:37.902Z] : [info]: Robot start
+
+[2022-04-01T18:46:48.237Z] : [info]: numero_boleto
+
+[2022-04-01T18:47:36.175Z] : [success]: Bot started
+
+[2022-04-01T18:47:36.175Z] : [info]: Robot start
+
+[2022-04-01T18:49:25.723Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:49:46.477Z] : [error]: Cannot read property 'type' of null
+
+[2022-04-01T18:49:46.479Z] : [error]: Cannot read property 'type' of null
+
+[2022-04-01T18:49:46.480Z] : [error]: Cannot read property 'type' of null
+
+[2022-04-01T18:49:46.481Z] : [error]: Cannot read property 'type' of null
+
+[2022-04-01T18:49:46.482Z] : [error]: Cannot read property 'type' of null
+

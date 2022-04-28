@@ -1,0 +1,74 @@
+
+  ==========================================
+  Studio Pro version: 7.2.17
+  Started at: 01/04/2022 15:50:01
+  ==========================================
+  
+
+[2022-04-01T18:50:06.605Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:50:10.122Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:50:10.123Z] : [success]: Bot started
+
+[2022-04-01T18:50:10.123Z] : [info]: Robot start
+
+[2022-04-01T18:50:42.936Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:50:47.078Z] : [success]: Bot started
+
+[2022-04-01T18:50:47.079Z] : [info]: Robot start
+
+[2022-04-01T18:50:58.253Z] : [success]: Bot finished successfully, total execution time: 11s 172ms
+
+[2022-04-01T18:50:58.254Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:51:45.888Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:51:49.495Z] : [success]: Bot started
+
+[2022-04-01T18:51:49.495Z] : [info]: Robot start
+
+[2022-04-01T18:53:09.143Z] : [success]: Bot started
+
+[2022-04-01T18:53:09.144Z] : [info]: Robot start
+
+[2022-04-01T18:53:49.660Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:53:54.449Z] : [success]: Bot started
+
+[2022-04-01T18:53:54.449Z] : [info]: Robot start
+
+[2022-04-01T18:54:44.161Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:54:48.047Z] : [success]: Bot started
+
+[2022-04-01T18:54:48.048Z] : [info]: Robot start
+
+[2022-04-01T18:55:00.168Z] : [info]: {"message":"Success","result":[{"message":"Success","input":"document","prediction":[{"id":"f444a842-db21-4ea1-a3b8-b33f1e17e002","label":"valor","xmin":2187,"ymin":2013,"xmax":2322,"ymax":2045,"score":0.99767953,"ocr_text":"168,66"},{"id":"b7e1abd0-2044-4452-badc-3b2296549bdb","label":"numero_boleto","xmin":891,"ymin":1679,"xmax":2318,"ymax":1704,"score":0.99999654,"ocr_text":"03399.00011 23500.151024 15566.401236 1 73420000016866"},{"id":"49a06f0c-d9d1-45e9-8ba6-e43dc366abb8","label":"local_pagamento","xmin":151,"ymin":1789,"xmax":855,"ymax":1813,"score":0.9822949,"ocr_text":"Pagar somente no banco santander apts vencinento"},{"id":"024e1af9-1f38-4b24-b698-3d220d0dfd59","label":"dt_vencimento","xmin":2095,"ymin":1776,"xmax":2324,"ymax":1804,"score":0.9997397,"ocr_text":"13/11/2017"},{"id":"28eb006d-6d4c-4d44-8faa-8b7f6458671f","label":"beneficiario","xmin":151,"ymin":1885,"xmax":416,"ymax":1902,"score":0.9975458,"ocr_text":"EMERESA TESIE LTDA"}],"page":0,"request_file_id":"9dd3fbef-d8a9-439a-a015-3b6cd06ffd1c","filepath":"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1957216988-1.jpeg","id":"09942d45-b1ed-11ec-900b-6ea3ad0447bf","rotation":0}],"signed_urls":{"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1957216988-1.jpeg":{"original":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1957216988-1.jpeg?expires=1648853621&or=0&s=005170903d0154b4bbe816cf1a76b5eb","original_compressed":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1957216988-1.jpeg?auto=compress&expires=1648853621&or=0&s=a538031c7127ad986046450e77c53fe4","thumbnail":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1957216988-1.jpeg?auto=compress&expires=1648853621&w=240&s=9e9076a198b6016eb564d2b8769e810e","acw_rotate_90":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1957216988-1.jpeg?auto=compress&expires=1648853621&or=270&s=0a7a50a334e4ad8e241962aa7f658093","acw_rotate_180":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1957216988-1.jpeg?auto=compress&expires=1648853621&or=180&s=8f8ec3f18e9b1bc059f88b54d90097cb","acw_rotate_270":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1957216988-1.jpeg?auto=compress&expires=1648853621&or=90&s=4ae63ccc047befe644a241bf1bf65c4d","original_with_long_expiry":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1957216988-1.jpeg?expires=1664391221&or=0&s=166f4c9448985acc32b08f6c4d781009"}}}
+
+[2022-04-01T18:56:12.315Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:56:15.660Z] : [success]: Bot started
+
+[2022-04-01T18:56:15.661Z] : [info]: Robot start
+
+[2022-04-01T18:56:27.230Z] : [info]: 1
+
+
+  ==========================================
+  Studio Pro version: 7.2.17
+  Started at: 01/04/2022 15:56:57
+  ==========================================
+  
+
+[2022-04-01T18:57:02.477Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:57:17.735Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:57:21.749Z] : [success]: Bot started
+
+[2022-04-01T18:57:21.749Z] : [info]: Robot start
+
+[2022-04-01T18:57:33.395Z] : [info]: 1
+

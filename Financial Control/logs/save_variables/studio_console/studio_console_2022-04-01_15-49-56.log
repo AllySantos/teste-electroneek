@@ -1,0 +1,76 @@
+[2022-04-01T18:50:22.489Z] : [error]: Cannot read property 'result' of undefined
+
+[2022-04-01T18:50:22.492Z] : [error]: Total execution time: 12s 366ms
+
+[2022-04-01T18:50:22.493Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 7.2.17
+  Started at: 01/04/2022 15:50:22
+  ==========================================
+  
+
+[2022-04-01T18:51:42.365Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:52:01.269Z] : [error]: Cannot read property '0' of undefined
+
+[2022-04-01T18:52:01.271Z] : [error]: Total execution time: 11s 773ms
+
+[2022-04-01T18:52:01.272Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:52:49.108Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:52:58.940Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:53:02.260Z] : [success]: Bot started
+
+[2022-04-01T18:53:02.262Z] : [info]: Robot start
+
+[2022-04-01T18:53:04.248Z] : [error]: result_ocr is not defined
+
+[2022-04-01T18:53:04.250Z] : [error]: Total execution time: 1s 986ms
+
+[2022-04-01T18:53:04.251Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:53:19.256Z] : [error]: Cannot read property 'length' of undefined
+
+[2022-04-01T18:53:19.259Z] : [error]: Total execution time: 10s 112ms
+
+[2022-04-01T18:53:19.259Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:54:06.262Z] : [error]: Cannot read property 'length' of undefined
+
+[2022-04-01T18:54:06.265Z] : [error]: Total execution time: 11s 813ms
+
+[2022-04-01T18:54:06.266Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:54:23.473Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:55:01.245Z] : [error]: Cannot read property 'length' of undefined
+
+[2022-04-01T18:55:01.247Z] : [error]: Total execution time: 13s 196ms
+
+[2022-04-01T18:55:01.248Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:56:29.247Z] : [error]: Cannot read property 'length' of undefined
+
+[2022-04-01T18:56:29.250Z] : [error]: Total execution time: 13s 585ms
+
+[2022-04-01T18:56:29.251Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:57:35.438Z] : [error]: Cannot read property 'length' of undefined
+
+[2022-04-01T18:57:35.440Z] : [error]: Total execution time: 13s 689ms
+
+[2022-04-01T18:57:35.441Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 7.2.17
+  Started at: 01/04/2022 15:57:35
+  ==========================================
+  
+
+[2022-04-01T18:57:45.029Z] : [success]: Robot saved successfully
+

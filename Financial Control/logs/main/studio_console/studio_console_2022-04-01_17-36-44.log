@@ -1,0 +1,143 @@
+
+  ==========================================
+  Studio Pro version: 7.2.17
+  Started at: 01/04/2022 17:36:51
+  ==========================================
+  
+
+[2022-04-01T20:44:40.600Z] : [success]: Robot saved successfully
+
+[2022-04-01T20:44:44.950Z] : [info]: ---------------------------------------------
+
+[2022-04-01T20:44:44.951Z] : [success]: Bot started
+
+[2022-04-01T20:44:44.952Z] : [info]: Robot start
+
+[2022-04-01T20:44:53.817Z] : [info]: 1
+
+[2022-04-01T20:45:18.847Z] : [success]: Robot saved successfully
+
+[2022-04-01T20:45:23.001Z] : [success]: Bot started
+
+[2022-04-01T20:45:23.003Z] : [info]: Robot start
+
+[2022-04-01T20:45:31.272Z] : [success]: Bot finished successfully, total execution time: 8s 267ms
+
+[2022-04-01T20:45:31.273Z] : [info]: ---------------------------------------------
+
+[2022-04-01T20:45:48.585Z] : [success]: Robot saved successfully
+
+[2022-04-01T20:46:18.182Z] : [success]: Robot saved successfully
+
+[2022-04-01T20:46:21.733Z] : [success]: Bot started
+
+[2022-04-01T20:46:21.734Z] : [info]: Robot start
+
+[2022-04-01T20:46:31.051Z] : [info]: 1
+
+[2022-04-01T20:46:48.037Z] : [success]: Robot saved successfully
+
+[2022-04-01T20:46:51.796Z] : [success]: Bot started
+
+[2022-04-01T20:46:51.798Z] : [info]: Robot start
+
+[2022-04-01T20:47:43.858Z] : [info]: 1
+
+[2022-04-01T20:48:36.507Z] : [success]: Robot saved successfully
+
+[2022-04-01T20:48:43.570Z] : [success]: Robot saved successfully
+
+[2022-04-01T20:49:39.184Z] : [success]: Bot started
+
+[2022-04-01T20:49:39.184Z] : [info]: Robot start
+
+[2022-04-01T20:49:47.155Z] : [info]: 1
+
+[2022-04-01T20:51:35.258Z] : [success]: Bot started
+
+[2022-04-01T20:51:35.259Z] : [info]: Robot start
+
+[2022-04-01T20:51:46.782Z] : [info]: {"message":"Success","result":[{"message":"Success","input":"document","prediction":[{"id":"5824a464-9918-4098-9d7f-930f566ef768","label":"numero_boleto","xmin":1234,"ymin":378,"xmax":3373,"ymax":429,"score":0.9999927,"ocr_text":"00190.50095 40144.816069 06809.350314 3 37370000000100"},{"id":"67311de1-9d5c-4148-8fce-e7d8f393fcd8","label":"local_pagamento","xmin":116,"ymin":528,"xmax":2313,"ymax":579,"score":0.9999496,"ocr_text":"Pagável em qualquer banco até o vencimento. Após, atualize o boleto no site bb.com.br."}],"page":0,"request_file_id":"3835bc96-d6a4-454e-92de-e113356194d5","filepath":"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1325948302-1.jpeg","id":"58dc854f-b1fd-11ec-ba77-f621d7d20346","rotation":0}],"signed_urls":{"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1325948302-1.jpeg":{"original":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1325948302-1.jpeg?expires=1648860627&or=0&s=baffc263cb0416f55fa277322ffdf974","original_compressed":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1325948302-1.jpeg?auto=compress&expires=1648860627&or=0&s=56520c8b6ed6b6ae3e48d8d8dcce1cb4","thumbnail":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1325948302-1.jpeg?auto=compress&expires=1648860627&w=240&s=6544bd31b329eb040a286cf941f9ee01","acw_rotate_90":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1325948302-1.jpeg?auto=compress&expires=1648860627&or=270&s=a392a72ba51a6cc5fd024bb69c5af3f8","acw_rotate_180":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1325948302-1.jpeg?auto=compress&expires=1648860627&or=180&s=169b19cfdd1b4b5c46296be85c020a3f","acw_rotate_270":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1325948302-1.jpeg?auto=compress&expires=1648860627&or=90&s=385ef3acacd184b1cf5e064def2ed7f5","original_with_long_expiry":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1325948302-1.jpeg?expires=1664398227&or=0&s=2523b0bc816210f78869f19b7d551b26"}}}
+
+[2022-04-01T20:51:46.788Z] : [info]: numero_boleto
+
+[2022-04-01T20:54:26.246Z] : [success]: Bot finished successfully, total execution time: 2s 99ms
+
+[2022-04-01T20:54:26.248Z] : [info]: ---------------------------------------------
+
+[2022-04-01T20:54:33.967Z] : [success]: Robot saved successfully
+
+[2022-04-01T20:54:37.900Z] : [success]: Bot started
+
+[2022-04-01T20:54:37.901Z] : [info]: Robot start
+
+[2022-04-01T20:54:46.879Z] : [info]: {"message":"Success","result":[{"message":"Success","input":"document","prediction":[{"id":"7716f513-1093-4e17-baf1-36f63dbd6ded","label":"numero_boleto","xmin":1234,"ymin":378,"xmax":3373,"ymax":429,"score":0.9999927,"ocr_text":"00190.50095 40144.816069 06809.350314 3 37370000000100"},{"id":"43222a84-cd75-4e20-a672-3aa2ddec6129","label":"local_pagamento","xmin":116,"ymin":528,"xmax":2313,"ymax":579,"score":0.9999496,"ocr_text":"Pagável em qualquer banco até o vencimento. Após, atualize o boleto no site bb.com.br."}],"page":0,"request_file_id":"31dd0015-2ad6-4f19-aa03-036fb9b75b80","filepath":"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1267369663-1.jpeg","id":"c561ea71-b1fd-11ec-bd24-ce4df23cb827","rotation":0}],"signed_urls":{"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1267369663-1.jpeg":{"original":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1267369663-1.jpeg?expires=1648860808&or=0&s=e6467a6c957d90a0880da41cbb39895e","original_compressed":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1267369663-1.jpeg?auto=compress&expires=1648860808&or=0&s=480d3dc2157c3bbd33f46987aed8e6ab","thumbnail":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1267369663-1.jpeg?auto=compress&expires=1648860808&w=240&s=213305af5738e31f2279793193786ea0","acw_rotate_90":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1267369663-1.jpeg?auto=compress&expires=1648860808&or=270&s=48c10ef437059d8d8efcd5215a5b7430","acw_rotate_180":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1267369663-1.jpeg?auto=compress&expires=1648860808&or=180&s=0d1cf9a6f50a99472c0599ea0841a32f","acw_rotate_270":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1267369663-1.jpeg?auto=compress&expires=1648860808&or=90&s=e3fa69f4725e0224ed38f285cb21ef1c","original_with_long_expiry":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1267369663-1.jpeg?expires=1664398408&or=0&s=c0637c073dee1ede6657c98442b56ed2"}}}
+
+[2022-04-01T20:54:46.901Z] : [info]: numero_boleto
+
+[2022-04-01T20:55:38.104Z] : [success]: Bot started
+
+[2022-04-01T20:55:38.104Z] : [info]: Robot start
+
+[2022-04-01T20:55:46.183Z] : [info]: {"message":"Success","result":[{"message":"Success","input":"document","prediction":[{"id":"10516aca-a9f1-44ad-8f1d-07b92c0597e6","label":"numero_boleto","xmin":1234,"ymin":378,"xmax":3373,"ymax":429,"score":0.9999927,"ocr_text":"00190.50095 40144.816069 06809.350314 3 37370000000100"},{"id":"c99d3e20-4e71-4a16-bc5b-19dd2a9d1f4e","label":"local_pagamento","xmin":116,"ymin":528,"xmax":2313,"ymax":579,"score":0.9999496,"ocr_text":"Pagável em qualquer banco até o vencimento. Após, atualize o boleto no site bb.com.br."}],"page":0,"request_file_id":"0d55ec5a-6b28-4327-9494-18f71af48331","filepath":"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1227046713-1.jpeg","id":"e931c2b7-b1fd-11ec-bc47-2ecd22d0e305","rotation":0}],"signed_urls":{"uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1227046713-1.jpeg":{"original":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1227046713-1.jpeg?expires=1648860867&or=0&s=28a35eaead3056ed8a4e80572ed8e317","original_compressed":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1227046713-1.jpeg?auto=compress&expires=1648860867&or=0&s=c8f7ee1b3e29af9179dc1742ea3e0668","thumbnail":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1227046713-1.jpeg?auto=compress&expires=1648860867&w=240&s=6cc6b471edcbf937c91e0767a0927d9a","acw_rotate_90":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1227046713-1.jpeg?auto=compress&expires=1648860867&or=270&s=a9a70d5af08b8b756f7d22c5e34a40fe","acw_rotate_180":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1227046713-1.jpeg?auto=compress&expires=1648860867&or=180&s=beeec35a2b65299cccaa636d910e6848","acw_rotate_270":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1227046713-1.jpeg?auto=compress&expires=1648860867&or=90&s=bb348b8bd960abc459dc534657aeea58","original_with_long_expiry":"https://nnts.imgix.net/uploadedfiles/52d4d190-3d5f-4580-99b5-2ab11e6ed2f1/PredictionImages/1227046713-1.jpeg?expires=1664398467&or=0&s=0457c4b1dadfe48a7bd08ce7822843c2"}}}
+
+[2022-04-01T21:00:11.865Z] : [success]: Bot started
+
+[2022-04-01T21:00:11.865Z] : [info]: Robot start
+
+[2022-04-01T21:00:18.828Z] : [info]: numero_boleto
+
+[2022-04-01T21:00:19.443Z] : [info]: Fim
+
+[2022-04-01T21:00:21.259Z] : [success]: Bot finished successfully, total execution time: 9s 391ms
+
+[2022-04-01T21:00:21.261Z] : [info]: ---------------------------------------------
+
+[2022-04-01T21:00:57.562Z] : [success]: Robot saved successfully
+
+[2022-04-01T21:05:44.200Z] : [success]: Robot saved successfully
+
+[2022-04-01T21:05:55.852Z] : [success]: Bot started
+
+[2022-04-01T21:05:55.852Z] : [info]: Robot start
+
+[2022-04-01T21:06:05.375Z] : [error]: dt_vencimento is not defined
+
+[2022-04-01T21:06:05.379Z] : [error]: Total execution time: 9s 522ms
+
+[2022-04-01T21:06:05.380Z] : [info]: ---------------------------------------------
+
+[2022-04-01T21:06:49.800Z] : [success]: Bot started
+
+[2022-04-01T21:06:49.801Z] : [info]: Robot start
+
+[2022-04-01T21:06:59.282Z] : [error]: num_boleto is not defined
+
+[2022-04-01T21:06:59.285Z] : [error]: Total execution time: 9s 480ms
+
+[2022-04-01T21:06:59.287Z] : [info]: ---------------------------------------------
+
+[2022-04-01T21:07:20.427Z] : [success]: Robot saved successfully
+
+[2022-04-01T21:07:24.290Z] : [success]: Bot started
+
+[2022-04-01T21:07:24.291Z] : [info]: Robot start
+
+[2022-04-01T21:07:34.269Z] : [error]: valor is not defined
+
+[2022-04-01T21:07:34.271Z] : [error]: Total execution time: 9s 977ms
+
+[2022-04-01T21:07:34.272Z] : [info]: ---------------------------------------------
+
+[2022-04-01T21:07:58.379Z] : [success]: Robot saved successfully
+
+[2022-04-01T21:08:01.569Z] : [success]: Bot started
+
+[2022-04-01T21:08:01.570Z] : [info]: Robot start
+
+[2022-04-01T21:08:11.250Z] : [error]: valor is not defined
+
+[2022-04-01T21:08:11.256Z] : [error]: Total execution time: 9s 680ms
+
+[2022-04-01T21:08:11.258Z] : [info]: ---------------------------------------------
+

@@ -1,0 +1,95 @@
+
+  ==========================================
+  Studio Pro version: 7.2.17
+  Started at: 04/04/2022 10:12:15
+  ==========================================
+  
+
+[2022-04-04T13:12:19.966Z] : [success]: Robot saved successfully
+
+[2022-04-04T13:12:50.148Z] : [info]: ---------------------------------------------
+
+[2022-04-04T13:12:50.149Z] : [success]: Bot started
+
+[2022-04-04T13:12:50.150Z] : [info]: Robot start
+
+[2022-04-04T13:13:02.708Z] : [error]: dt_vencimento is not defined
+
+[2022-04-04T13:13:02.712Z] : [error]: Total execution time: 12s 557ms
+
+[2022-04-04T13:13:02.713Z] : [info]: ---------------------------------------------
+
+[2022-04-04T13:21:40.147Z] : [success]: Bot started
+
+[2022-04-04T13:21:40.147Z] : [info]: Robot start
+
+[2022-04-04T13:21:53.033Z] : [info]: Fim
+
+[2022-04-04T13:21:53.515Z] : [success]: Bot finished successfully, total execution time: 13s 366ms
+
+[2022-04-04T13:21:53.518Z] : [info]: ---------------------------------------------
+
+[2022-04-04T13:27:07.344Z] : [success]: Bot started
+
+[2022-04-04T13:27:07.345Z] : [info]: Robot start
+
+[2022-04-04T13:27:17.226Z] : [info]: Fim
+
+[2022-04-04T13:27:18.525Z] : [success]: Bot finished successfully, total execution time: 11s 178ms
+
+[2022-04-04T13:27:18.526Z] : [info]: ---------------------------------------------
+
+[2022-04-04T13:29:53.202Z] : [success]: Bot started
+
+[2022-04-04T13:29:53.203Z] : [info]: Robot start
+
+[2022-04-04T13:30:05.564Z] : [info]: Pagável em qualquer banco até o vencimento. Após, atualize o boleto no site bb.com.br. Não Informado undefined Não Informado
+
+[2022-04-04T13:30:05.626Z] : [info]: Fim
+
+[2022-04-04T13:30:06.516Z] : [success]: Bot finished successfully, total execution time: 13s 311ms
+
+[2022-04-04T13:30:06.517Z] : [info]: ---------------------------------------------
+
+[2022-04-04T13:31:34.651Z] : [success]: Bot started
+
+[2022-04-04T13:31:34.651Z] : [info]: Robot start
+
+[2022-04-04T13:31:44.647Z] : [info]: Pagável em qualquer banco até o vencimento. Após, atualize o boleto no site bb.com.br. Não Informado 00190.50095 40144.816069 06809.350314 3 37370000000100 Não Informado
+
+[2022-04-04T13:31:44.703Z] : [info]: Fim
+
+[2022-04-04T13:31:46.517Z] : [success]: Bot finished successfully, total execution time: 11s 863ms
+
+[2022-04-04T13:31:46.519Z] : [info]: ---------------------------------------------
+
+[2022-04-04T13:32:01.342Z] : [success]: Robot saved successfully
+
+[2022-04-04T13:32:05.946Z] : [success]: Bot started
+
+[2022-04-04T13:32:05.947Z] : [info]: Robot start
+
+[2022-04-04T13:32:15.342Z] : [info]: o 24/112014 34191.75363 79378.660199 80411.470000 4 62570000165447 Não Informado
+
+[2022-04-04T13:32:20.482Z] : [info]: Pagável em qualquer banco até o vencimento. Após, atualize o boleto no site bb.com.br. Não Informado 00190.50095 40144.816069 06809.350314 3 37370000000100 Não Informado
+
+[2022-04-04T13:32:25.627Z] : [info]: PAGÁVEL PREFERENCIALMENTE NAS AGÊNCIAS DO BRADESCO 29/01/2011 23791.11103 60000.000103 01000.222206 1 48622000000000 20,000,000.00
+
+[2022-04-04T13:32:31.157Z] : [info]: qualquer Banco até o vencimento 28/09/2014 10491.23456 60000.200042 00000.1234147 62000000100050 1000,50
+
+[2022-04-04T13:32:38.502Z] : [info]: Pagavel em qualquer banco ate a data de vencimento. 19/03/2018 00190.00009 09876.543001 00000.040113 174680000014990 149.90
+
+[2022-04-04T13:32:43.954Z] : [info]: Pagável em gualquer banco até a data de vencimento. 09/08/2009 75691.30433 02000.082509 06000.1000135 43760000003990 39.90
+
+[2022-04-04T13:32:43.989Z] : [info]: Fim
+
+[2022-04-04T13:32:45.546Z] : [success]: Bot finished successfully, total execution time: 39s 597ms
+
+[2022-04-04T13:32:45.548Z] : [info]: ---------------------------------------------
+
+[2022-04-04T13:43:59.945Z] : [success]: Robot saved successfully
+
+[2022-04-04T13:48:35.294Z] : [success]: Robot saved successfully
+
+[2022-04-04T13:48:51.437Z] : [success]: Robot saved successfully
+

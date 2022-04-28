@@ -1,0 +1,283 @@
+[2022-04-01T18:09:13.451Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:09:17.765Z] : [success]: Bot started
+
+[2022-04-01T18:09:17.766Z] : [info]: Robot start
+
+[2022-04-01T18:09:19.255Z] : [error]: Selectors: Could not convert string to integer: {"Teste", "Teste", "Teste"}. Path 'from_row', line 1, position 197.
+
+[2022-04-01T18:09:19.259Z] : [error]: Total execution time: 1s 488ms
+
+[2022-04-01T18:09:19.261Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:11:45.468Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:11:49.025Z] : [success]: Bot started
+
+[2022-04-01T18:11:49.025Z] : [info]: Robot start
+
+[2022-04-01T18:11:50.244Z] : [error]: Selectors: "Zip exception.Unable to read value at the specified position - end of stream was reached."
+
+
+[2022-04-01T18:11:50.246Z] : [error]: Total execution time: 1s 218ms
+
+[2022-04-01T18:11:50.246Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:13:07.334Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:13:11.510Z] : [success]: Bot started
+
+[2022-04-01T18:13:11.511Z] : [info]: Robot start
+
+[2022-04-01T18:13:13.251Z] : [error]: Selectors: Zip exception.Unable to read value at the specified position - end of stream was reached.
+
+
+[2022-04-01T18:13:13.253Z] : [error]: Total execution time: 1s 739ms
+
+[2022-04-01T18:13:13.254Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:13:50.532Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:13:55.879Z] : [success]: Bot started
+
+[2022-04-01T18:13:55.879Z] : [info]: Robot start
+
+[2022-04-01T18:13:57.251Z] : [error]: Selectors: Zip exception.Unable to read value at the specified position - end of stream was reached.
+
+
+[2022-04-01T18:13:57.254Z] : [error]: Total execution time: 1s 372ms
+
+[2022-04-01T18:13:57.256Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:15:06.919Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:15:10.300Z] : [success]: Bot started
+
+[2022-04-01T18:15:10.301Z] : [info]: Robot start
+
+[2022-04-01T18:15:12.241Z] : [error]: Selectors: "Zip exception.Unable to read value at the specified position - end of stream was reached."
+
+
+[2022-04-01T18:15:12.244Z] : [error]: Total execution time: 1s 940ms
+
+[2022-04-01T18:15:12.244Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:16:10.843Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:16:11.948Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:16:15.664Z] : [success]: Bot started
+
+[2022-04-01T18:16:15.665Z] : [info]: Robot start
+
+[2022-04-01T18:16:17.239Z] : [error]: Selectors: Zip exception.Unable to read value at the specified position - end of stream was reached.
+
+
+[2022-04-01T18:16:17.242Z] : [error]: Total execution time: 1s 574ms
+
+[2022-04-01T18:16:17.243Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:17:21.475Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:17:25.351Z] : [success]: Bot started
+
+[2022-04-01T18:17:25.352Z] : [info]: Robot start
+
+[2022-04-01T18:17:27.247Z] : [error]: Selectors: "Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'System.Collections.Generic.IDictionary`2[System.String,System.Collections.Generic.IDictionary`2[System.String,System.String][]]' because the type requires a JSON object (e.g. {\"name\":\"value\"}) to deserialize correctly.\r\nTo fix this error either change the JSON to a JSON object (e.g. {\"name\":\"value\"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.\r\nPath '', line 1, position 1."
+
+
+[2022-04-01T18:17:27.249Z] : [error]: Total execution time: 1s 894ms
+
+[2022-04-01T18:17:27.250Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:18:24.121Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:18:26.302Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:18:31.213Z] : [success]: Bot started
+
+[2022-04-01T18:18:31.214Z] : [info]: Robot start
+
+[2022-04-01T18:18:33.243Z] : [error]: Selectors: "Zip exception.Unable to read value at the specified position - end of stream was reached."
+
+
+[2022-04-01T18:18:33.246Z] : [error]: Total execution time: 2s 29ms
+
+[2022-04-01T18:18:33.246Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:20:18.627Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:20:22.149Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:20:25.522Z] : [success]: Bot started
+
+[2022-04-01T18:20:25.523Z] : [info]: Robot start
+
+[2022-04-01T18:20:27.256Z] : [error]: Selectors: "Zip exception.Unable to read value at the specified position - end of stream was reached."
+
+
+[2022-04-01T18:20:27.260Z] : [error]: Total execution time: 1s 732ms
+
+[2022-04-01T18:20:27.261Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:21:06.630Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:21:10.583Z] : [success]: Bot started
+
+[2022-04-01T18:21:10.584Z] : [info]: Robot start
+
+[2022-04-01T18:21:12.246Z] : [error]: Selectors: "Zip exception.Unable to read value at the specified position - end of stream was reached."
+
+
+[2022-04-01T18:21:12.250Z] : [error]: Total execution time: 1s 661ms
+
+[2022-04-01T18:21:12.251Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:21:43.757Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:21:46.758Z] : [success]: Bot started
+
+[2022-04-01T18:21:46.759Z] : [info]: Robot start
+
+[2022-04-01T18:21:48.272Z] : [error]: Selectors: "Zip exception.Unable to read value at the specified position - end of stream was reached."
+
+
+[2022-04-01T18:21:48.276Z] : [error]: Total execution time: 1s 513ms
+
+[2022-04-01T18:21:48.277Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:22:49.410Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:22:52.935Z] : [success]: Bot started
+
+[2022-04-01T18:22:52.936Z] : [info]: Robot start
+
+[2022-04-01T18:22:54.281Z] : [error]: Selectors: "Zip exception.Unable to read value at the specified position - end of stream was reached."
+
+
+[2022-04-01T18:22:54.284Z] : [error]: Total execution time: 1s 345ms
+
+[2022-04-01T18:22:54.285Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:24:04.184Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:24:07.484Z] : [success]: Bot started
+
+[2022-04-01T18:24:07.485Z] : [info]: Robot start
+
+[2022-04-01T18:24:09.245Z] : [error]: Selectors: "Zip exception.Unable to read value at the specified position - end of stream was reached."
+
+
+[2022-04-01T18:24:09.250Z] : [error]: Total execution time: 1s 760ms
+
+[2022-04-01T18:24:09.251Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:25:27.466Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:25:31.140Z] : [success]: Bot started
+
+[2022-04-01T18:25:31.141Z] : [info]: Robot start
+
+[2022-04-01T18:25:33.273Z] : [error]: Selectors: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+
+[2022-04-01T18:25:33.278Z] : [error]: Total execution time: 2s 131ms
+
+[2022-04-01T18:25:33.279Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:27:23.414Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:27:26.838Z] : [success]: Bot started
+
+[2022-04-01T18:27:26.839Z] : [info]: Robot start
+
+[2022-04-01T18:27:28.257Z] : [error]: Selectors: "Zip exception.Unable to read value at the specified position - end of stream was reached."
+
+
+[2022-04-01T18:27:28.261Z] : [error]: Total execution time: 1s 416ms
+
+[2022-04-01T18:27:28.262Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:27:41.038Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:27:44.178Z] : [success]: Bot started
+
+[2022-04-01T18:27:44.178Z] : [info]: Robot start
+
+[2022-04-01T18:27:46.276Z] : [error]: Selectors: "Zip exception.Unable to read value at the specified position - end of stream was reached."
+
+
+[2022-04-01T18:27:46.279Z] : [error]: Total execution time: 2s 97ms
+
+[2022-04-01T18:27:46.281Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:28:25.876Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:28:29.911Z] : [success]: Bot started
+
+[2022-04-01T18:28:29.913Z] : [info]: Robot start
+
+[2022-04-01T18:28:32.253Z] : [success]: Bot finished successfully, total execution time: 2s 339ms
+
+[2022-04-01T18:28:32.256Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:29:07.914Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:29:14.278Z] : [success]: Bot started
+
+[2022-04-01T18:29:14.280Z] : [info]: Robot start
+
+[2022-04-01T18:29:16.332Z] : [error]: Selectors: Zip exception.Unable to read value at the specified position - end of stream was reached.
+
+
+[2022-04-01T18:29:16.336Z] : [error]: Total execution time: 2s 51ms
+
+[2022-04-01T18:29:16.338Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:30:43.698Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:34:14.499Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:34:50.252Z] : [error]: Cannot read property 'prediction' of undefined
+
+[2022-04-01T18:34:50.254Z] : [error]: Total execution time: 10s 44ms
+
+[2022-04-01T18:34:50.255Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:35:00.630Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:35:04.551Z] : [success]: Bot started
+
+[2022-04-01T18:35:04.552Z] : [info]: Robot start
+
+[2022-04-01T18:35:05.540Z] : [info]: undefined
+
+[2022-04-01T18:35:06.249Z] : [success]: Bot finished successfully, total execution time: 1s 696ms
+
+[2022-04-01T18:35:06.250Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:35:49.589Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:36:29.042Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:37:30.498Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:37:33.787Z] : [success]: Bot started
+
+[2022-04-01T18:37:33.788Z] : [info]: Robot start
+
+[2022-04-01T18:37:35.244Z] : [error]: result_ocr is not defined
+
+[2022-04-01T18:37:35.248Z] : [error]: Total execution time: 1s 455ms
+
+[2022-04-01T18:37:35.250Z] : [info]: ---------------------------------------------
+
+[2022-04-01T18:44:20.976Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:46:07.102Z] : [success]: Robot saved successfully
+
+[2022-04-01T18:46:49.244Z] : [error]: local_pagamento is not defined
+
+[2022-04-01T18:46:49.248Z] : [error]: Total execution time: 11s 341ms
+
+[2022-04-01T18:46:49.250Z] : [info]: ---------------------------------------------
+
